@@ -8,8 +8,7 @@
 body {
     font-family: 'Roboto', sans-serif; 
     font-size: 1.5rem;
-    min-height: 1.5;
-    height: 200vh;
+    min-height: 200vh;
 }
 
 .outer-container {
